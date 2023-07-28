@@ -13,5 +13,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Images
+<img width="1051" alt="Screenshot 2023-07-29 at 1 25 24 AM" src="https://github.com/sandy-iiit/RecipeBook-Angular/assets/95034962/18a86ba2-da7a-44a2-a502-b4a3285a6e3d">
 
 
